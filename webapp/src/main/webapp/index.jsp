@@ -84,7 +84,7 @@ h1{
 }
 	h3{
     position: absolute;
-    top: 30%;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: #fff;
@@ -106,7 +106,7 @@ h1{
             </ul>
 		
         </header>
-         <h3>Hello World</h3>
+         <h3>***Hello World***</h3>
 	 <h1>"Wellcome to the best shopping site".</h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
