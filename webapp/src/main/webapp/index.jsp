@@ -89,6 +89,13 @@ h1{
     transform: translate(-50%, -50%);
     color: #fff;
 }
+	h2{
+		position: absolute;
+		top:55%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		color: #fff;
+}
 </style>
 </head>
 
@@ -108,6 +115,7 @@ h1{
         </header>
          <h3>***Hello World***</h3>
 	 <h1>"Wellcome to the best shopping site".</h1>
+	 <h2>"Thank you for being the best part of this site"</h2>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
